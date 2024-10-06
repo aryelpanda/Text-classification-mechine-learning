@@ -3,6 +3,8 @@
 **Course**: Machine Learning  
 **Project**: Classifying Gender Based on Text
 
+[Watch the explenation and results Video on YouTube](https://www.youtube.com/watch?v=aR1FMweSHKw)
+
 ## Project Overview
 
 This project focuses on predicting the gender of an author based on a given text. Using machine learning models, such as Naive Bayes and K-Nearest Neighbors (KNN), this project aims to classify text data and provide insights into text-based gender classification.
